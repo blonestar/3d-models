@@ -1,4 +1,5 @@
 # Monolith panels door bottom parts mod for PITFT50 and HDMI5 screens
+Those screens printed part holder or outer dimensions are 128mm wide so the handle is moved 65mm to the side.
 
 For Voron sizes available:
 - 250mm
