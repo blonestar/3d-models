@@ -4,6 +4,7 @@ Those screens printed part holder or outer dimensions are 128mm wide so the hand
 For Voron sizes available:
 - 250mm
 - 300mm
+- 350mm
 
 ### Note: Please use shorter inserts for plastic parts, 4mm is enough and 5mm could be too long.
 
